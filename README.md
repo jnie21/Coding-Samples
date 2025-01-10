@@ -3,9 +3,9 @@ The attached file includes a group project and the code I contributed to its dev
 
 My code contributions primarily emphasize the following:
 
-Combining data from two time periods to create a unified dataset for analysis.
-Checking for missing values to assess dataset completeness.
-Simplifying the dataset by focusing on relevant information.
-Sampling to reduce data size for efficient visualization.
-Preparing geographic data for mapping to provide context for crime locations.
+Combining data from two time periods to create a unified dataset for analysis;
+Checking for missing values to assess dataset completeness;
+Simplifying the dataset by focusing on relevant information;
+Sampling to reduce data size for efficient visualization;
+Preparing geographic data for mapping to provide context for crime locations;
 Adding interactivity with a selector for filtering by year.
